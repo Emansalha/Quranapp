@@ -1,16 +1,30 @@
-# quran_app
+#  Quran App (Flutter)
 
-A new Flutter project.
+A Quran App built with Flutter, providing a smooth and elegant way to read the Holy Quran.
+
+
+
+##  Features
+
+- Display verses (Ayahs) with proper Surah and page division.
+- Full Quran search functionality.
+- Smooth page navigation.
+- Support for Light & Dark Mode.
+- Clean and user-friendly interface.
+
+##  Technologies Used
+
+- Flutter for building the app UI.
+- Dart as the main programming language.
+- Provider / Riverpod (if used) for state management.
+- Local JSON / API for Quran data.
+
+## Screenshots
+
+Add here screenshots of the app in Light Mode and Dark Mode.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Make sure Flutter and Dart are installed on your machine.
+2. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
